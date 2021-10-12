@@ -5,7 +5,7 @@ Scaleway - Container
   </title>
   <meta charset="utf-8">
   <meta name="author" content="Justin Briard" />
-  <meta name="description" content="Free Web tutorials for HTML and CSS">
+  <meta name="description" content="Kubernetes Demo pod">
 
 
 <style>
